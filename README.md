@@ -61,7 +61,7 @@ The project uses five CSV files representing different dimensions of the hospita
 ---
 
 ### 🧠 Technologies Used
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** 
 - **Jupyter Notebook**
 - **Excel/CSV Data Sources**
 
